@@ -1,2 +1,1 @@
-# simple-sms
-simple stock management usage for friend
+simple stock managment system for a old friend
